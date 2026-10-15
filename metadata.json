@@ -1,0 +1,6 @@
+{
+  "name": "Coimbatore City Police - Crime Management System",
+  "description": "Modern digital crime management, e-FIR registration, public safety alerts, and police officer investigation dossier for Coimbatore City Police, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
